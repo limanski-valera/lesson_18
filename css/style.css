@@ -896,3 +896,11 @@ body._lock{
     height: 100%;
     object-fit: cover;
 }
+@media (max-width: 768px){
+    .grid {
+        padding: 10px;
+    }
+    .grid__title-block{
+        margin-bottom: 10px;
+    }
+}
